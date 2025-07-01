@@ -9,7 +9,7 @@ Version 1 is not reccomended to use, it is the same as V2 but with removed solde
 
 Version 3 has the [L76K XIAO GNSS Module slot](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
 
-![](/images/nrfpcbv2.png)
+![NRFPCBV2](/images/nrfpcbv2.png)
 
 
 ![](/images/nrfblepins.png)
