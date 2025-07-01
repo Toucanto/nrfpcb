@@ -9,5 +9,5 @@ Version 1 is not reccomended to use, it is the same as V2 but with removed solde
 
 Version 3 has the [L76K XIAO GNSS Module slot](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
 
-[XIAO nRF5284 pins](/images/sx1262pins.png)
+![](/images/sx1262pins.png)
 
