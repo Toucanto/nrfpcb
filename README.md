@@ -3,4 +3,11 @@ A PCB for the XIAO nRF52840 and Wio-SX1262
 
 # KiCad files are **NOT** availible for version 1
 
-Version 1 & 2 do not have a bottom soldermask, it is an empty layer. This will be fixed in v3. PCBWay afaik can fix this issue themselves, as they did it when i ordered it on their site. As it stands though without the soldermask, it is unmanufacturable.
+Version 1 & 2 are meant to be printed in **2 LAYERS** even though it seems like 1. 
+
+Version 1 is not reccomended to use, it is the same as V2 but with removed solder pads. I had to remove those as PCBWay treated them as via's...
+
+Version 3 has the [L76K XIAO GNSS Module slot](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
+
+
+
