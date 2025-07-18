@@ -7,7 +7,7 @@ Version 1 & 2 are meant to be printed in **2 LAYERS** even though it seems like 
 
 Version 1 is not reccomended to use, it is the same as V2 but with removed solder pads. I had to remove those as PCBWay treated them as via's...
 
-Version 3 has the [L76K XIAO GNSS Module slot](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
+Version 3 has the [L76K XIAO GNSS Module slot](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html). **THIS IS COMING IN THE FUTURE!**
 
 ![NRFPCBV2](/images/nrfpcbv2.png)
 
