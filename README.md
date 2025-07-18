@@ -12,6 +12,7 @@ Version 3 has the [L76K XIAO GNSS Module slot](https://www.seeedstudio.com/L76K-
 ![NRFPCBV2](/images/nrfpcbv2.png)
 
 
+![](/images/Screenshot_20250717-200032.png)
 ![](/images/nrfblepins.png)
 ![](/images/sx1262pins.png)
 
